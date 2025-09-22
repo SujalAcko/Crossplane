@@ -4,5 +4,5 @@ metadata:
   name: provider-terraform
   namespace: crossplane-system
 spec:
-  package: xpkg.crossplane.io/crossplane/provider-terraform:v0.17.0
+  package: xpkg.upbound.io/upbound/provider-terraform:v1.0.0
 
